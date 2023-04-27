@@ -1,0 +1,25 @@
+header {
+    padding: 20px;
+    height: 80px;
+}
+.imgh{
+    width: 10%;
+}
+header{
+    background-color: black;
+}
+.banner{
+    width: 100%;
+}
+.conteiner{
+    width: 80%;
+    background-color: brown;
+    margin: auto
+}
+header{
+    height: 150px;
+}
+footer{
+    background-color: aqua;
+    width: 100%;
+}
